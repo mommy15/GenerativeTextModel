@@ -1,0 +1,36 @@
+node_modules
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environments
+env/
+venv/
+*.env
+*.venv
+.env.*
+
+# === Model & Data Files ===
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.joblib
+*.sav
+
+# === VS Code / PyCharm ===
+.vscode/
+.idea/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
