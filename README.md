@@ -1,6 +1,6 @@
 <div id="top">
 
-<!-- HEADER STYLE: CLASSIC -->
+<-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
 <img src="GenerativeTextModel.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
